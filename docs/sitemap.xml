@@ -12,6 +12,14 @@
   
     
       <url>
+            <loc>https://your_domain.com/blog/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://your_domain.com/store/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

@@ -26,6 +26,6 @@ table, th {
 
 🕹️ Greatest Games️ | 🚀 Greatest Tech | 🧑‍💻 Greatest Assets
 --------------------|------------------|-----------------------
-We know what makes not just a great game - but one you keep coming back to! We have previously worked on internationally renowned titles.<br><br>Deep within our Volcano Dragon Lair (actually a sunny office in Manchester, UK) we are getting our next great hit ready for you. | We believe that we are on the cusp of a new technological wave - and gaming is at it's heart!<br><br>Our studios harnesses the power of Unity Engine to deliver bleeding edge graphics, great sound and a world players loose themselves in! | Desk Dragons side quest is to create amazing, world-class assets for the next-generation Unity developers.
+We know what makes not just a great game - but one you keep coming back to! We have previously worked on internationally renowned titles.<br><br>Deep within our Volcano Dragon Lair (actually a sunny office in Manchester, UK) we are getting our next great hit ready for you. | We believe that we are on the cusp of a new technological wave - and gaming is at it's heart!<br><br>Our studios harnesses the power of Unity Engine to deliver bleeding edge graphics, great sound and a world players loose themselves in! | Desk Dragons side quest is to create amazing, world-class [assets](/store/) for the next-generation Unity developers.
 
 ![DeskDragon](/img/desk.png)

@@ -1,4 +1,4 @@
-baseURL = 'https://deskdragons.github.io'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Desk Dragons'
 publishDir = "docs"
