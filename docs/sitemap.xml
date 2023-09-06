@@ -29,6 +29,14 @@
     
   
     
+      <url>
+            <loc>https://your_domain.com/store/store_2/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
   
     
       <url>
