@@ -28,5 +28,65 @@
       
     </item>
     
+    <item>
+      <title>Spider 1</title>
+      <link>https://your_domain.com/store/store_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://your_domain.com/store/store_6/</guid>
+      <description>Spiders in space!</description>
+      
+    </item>
+    
+    <item>
+      <title>Spider 2</title>
+      <link>https://your_domain.com/store/store_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://your_domain.com/store/store_7/</guid>
+      <description>Spiders in space!</description>
+      
+    </item>
+    
+    <item>
+      <title>Spider 3</title>
+      <link>https://your_domain.com/store/store_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://your_domain.com/store/store_8/</guid>
+      <description>Spiders in space!</description>
+      
+    </item>
+    
+    <item>
+      <title>Tyranid 1</title>
+      <link>https://your_domain.com/store/store_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://your_domain.com/store/store_3/</guid>
+      <description>A dangerous race of aliens.</description>
+      
+    </item>
+    
+    <item>
+      <title>Tyranid 2</title>
+      <link>https://your_domain.com/store/store_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://your_domain.com/store/store_4/</guid>
+      <description>A dangerous race of aliens.</description>
+      
+    </item>
+    
+    <item>
+      <title>Tyranid 3</title>
+      <link>https://your_domain.com/store/store_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://your_domain.com/store/store_5/</guid>
+      <description>A dangerous race of aliens.</description>
+      
+    </item>
+    
   </channel>
 </rss>
